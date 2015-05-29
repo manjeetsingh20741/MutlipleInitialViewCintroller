@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6AB50FC2-787F-40DB-BE4B-F6F1DA411200</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MultipleInitialScreen</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6448C9B892A356C633AA913592D7779C7DA5FCEA</key>
+		<string>https://github.com/manjeetsingh20741/MutlipleInitialViewCintroller.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MultipleInitialScreen/MultipleInitialScreen.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6448C9B892A356C633AA913592D7779C7DA5FCEA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/manjeetsingh20741/MutlipleInitialViewCintroller.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6448C9B892A356C633AA913592D7779C7DA5FCEA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6448C9B892A356C633AA913592D7779C7DA5FCEA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MutlipleInitialViewCintroller</string>
+		</dict>
+	</array>
+</dict>
+</plist>
